@@ -3,7 +3,7 @@ package all.L56;
 import java.util.*;
 
 class Solution {
-    public int[][] merge1(int[][] intervals) {
+    public int[][] merge(int[][] intervals) {
         Arrays.sort(intervals, Comparator.comparingInt(i -> i[0]));
         List<Integer[]> list = new ArrayList<>();
         int l;
