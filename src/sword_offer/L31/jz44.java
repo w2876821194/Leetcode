@@ -3,7 +3,7 @@
 //public class jz44 {
 //}
 //
-////class Solution {
+////class klausur.L深信服.Solution {
 ////    int n;
 ////    int start; // 以x开头数的字符串中的位数
 ////    int length; // 位数大小
@@ -35,15 +35,15 @@
 //
 //class Test {
 //    public static void main(String[] args) {
-////        System.out.println(new Solution().findNthDigit(11));
-////        System.out.println(new Solution().findNthDigit(3));
-////        System.out.println(new Solution().findNthDigit(10));
-//        System.out.println(new Solution().findNthDigit(1000));
-////        System.out.println(new Solution().findNthDigit(20));
+////        System.out.println(new klausur.L深信服.Solution().findNthDigit(11));
+////        System.out.println(new klausur.L深信服.Solution().findNthDigit(3));
+////        System.out.println(new klausur.L深信服.Solution().findNthDigit(10));
+//        System.out.println(new klausur.L深信服.Solution().findNthDigit(1000));
+////        System.out.println(new klausur.L深信服.Solution().findNthDigit(20));
 //    }
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int findNthDigit(int n) {
 //        int length = 1; // 位数
 //        long start = 1; // 当前起始数

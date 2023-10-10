@@ -3,7 +3,7 @@
 //public class jz56 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int[] singleNumbers(int[] nums) {
 //        int len = nums.length;
 //        int num = 0;
@@ -29,6 +29,6 @@
 //class Test {
 //    public static void main(String[] args) {
 //        int[] ints = {1, 2, 5, 2};
-//        new Solution().singleNumbers(ints);
+//        new klausur.L深信服.Solution().singleNumbers(ints);
 //    }
 //}

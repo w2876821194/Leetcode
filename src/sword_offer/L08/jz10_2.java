@@ -3,7 +3,7 @@
 //public class jz10_2 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    int[] arr = new int[101];
 //
 //    public int numWays(int n) {

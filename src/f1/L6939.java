@@ -8,7 +8,7 @@
 //public class L6939 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int maxSum(int[] nums) {
 //        Map<Integer, List<Integer>> map = new HashMap<>();
 //        int max = -1;
@@ -41,6 +41,6 @@
 //
 //class Test {
 //    public static void main(String[] args) {
-//        new Solution().maxSum(new int[]{51, 71, 17, 24, 42});
+//        new klausur.L深信服.Solution().maxSum(new int[]{51, 71, 17, 24, 42});
 //    }
 //}

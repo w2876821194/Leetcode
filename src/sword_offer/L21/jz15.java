@@ -3,7 +3,7 @@
 //public class jz15 {
 //}
 //
-//public class Solution {
+//public class klausur.L深信服.Solution {
 //    // you need to treat n as an unsigned value
 //    public int hammingWeight(int n) {
 //        int sum = 0;

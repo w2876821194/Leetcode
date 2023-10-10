@@ -12,7 +12,7 @@
 //    }
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    ListNode listNode = new ListNode(1);
 //    ListNode root = listNode;
 //

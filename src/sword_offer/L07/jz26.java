@@ -10,7 +10,7 @@
 //    }
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public boolean isSubStructure(TreeNode A, TreeNode B) {
 //        if (A == null || B == null) {
 //            return false;
@@ -50,6 +50,6 @@
 //        A.left.left = new TreeNode(4);
 //        A.right = new TreeNode(3);
 //        TreeNode B = new TreeNode(3);
-//        new Solution().isSubStructure(A,B);
+//        new klausur.L深信服.Solution().isSubStructure(A,B);
 //    }
 //}

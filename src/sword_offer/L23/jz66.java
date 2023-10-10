@@ -3,7 +3,7 @@
 //public class jz66 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int[] constructArr(int[] a) {
 //        if (a.length == 0) {
 //            return new int[0];
@@ -26,6 +26,6 @@
 //class Test {
 //    public static void main(String[] args) {
 //        int[] a = {1, 2, 3, 4, 5};
-//        new Solution().constructArr(a);
+//        new klausur.L深信服.Solution().constructArr(a);
 //    }
 //}

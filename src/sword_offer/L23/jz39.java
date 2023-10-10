@@ -6,7 +6,7 @@
 //public class jz39 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int majorityElement(int[] nums) {
 //        Map<Integer, Integer> map = new HashMap<>();
 //        int max = 0;

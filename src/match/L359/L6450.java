@@ -1,4 +1,4 @@
-//package L359;
+//package match.L359;
 //
 //import java.util.HashSet;
 //import java.util.Iterator;
@@ -9,7 +9,7 @@
 //
 ////  [1,2,4,5,6]
 ////  [1,2,3,4,5]
-////class Solution {
+////class klausur.L深信服.Solution {
 ////    public int minimumSum(int n, int k) {
 ////        Set<Integer> set = new HashSet<>();
 ////        for (int i = 1; i <= k / 2; i++) {
@@ -36,11 +36,11 @@
 //        // 3 6
 //        // 6
 //        // 1 2 3
-//        new Solution().minimumSum(5, 4);
+//        new klausur.L深信服.Solution().minimumSum(5, 4);
 //    }
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int minimumSum(int n, int k) {
 //        Set<Integer> set = new HashSet<>();
 //        Set<Integer> flags = new HashSet<>();

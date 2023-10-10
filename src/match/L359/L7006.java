@@ -1,4 +1,4 @@
-//package L359;
+//package match.L359;
 //
 //import java.util.ArrayList;
 //import java.util.Arrays;
@@ -8,7 +8,7 @@
 //
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int maximizeTheProfit(int n, List<List<Integer>> offers) {
 //        offers.sort((i, j) -> (j.get(2) - i.get(2)) + (i.get(1) - i.get(0)) - (j.get(1) - j.get(0)));
 //        boolean[] flags = new boolean[n];
@@ -40,6 +40,6 @@
 //            }
 //            list.add(intList); // 将intList添加到resultList中
 //        }
-//        new Solution().maximizeTheProfit(4, list);
+//        new klausur.L深信服.Solution().maximizeTheProfit(4, list);
 //    }
 //}

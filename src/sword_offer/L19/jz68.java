@@ -13,7 +13,7 @@
 //    }
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    TreeNode p;
 //    TreeNode q;
 //    boolean flag;

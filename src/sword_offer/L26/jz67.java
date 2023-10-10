@@ -2,7 +2,7 @@
 //
 //public class jz67 {
 //}
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int strToInt(String str) {
 //        StringBuilder set = set(str);
 //        long l = 0;

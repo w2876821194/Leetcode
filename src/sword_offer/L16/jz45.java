@@ -7,7 +7,7 @@
 //public class jz45 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public String minNumber(int[] nums) {
 //        if (nums == null) {
 //            return "";
@@ -21,6 +21,6 @@
 //
 //class Test {
 //    public static void main(String[] args) {
-//        new Solution().minNumber(new int[]{3, 30, 34, 5, 9});
+//        new klausur.L深信服.Solution().minNumber(new int[]{3, 30, 34, 5, 9});
 //    }
 //}

@@ -12,7 +12,7 @@
 //    }
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public ListNode getKthFromEnd(ListNode head, int k) {
 //        ListNode left = head;
 //        ListNode right = head;

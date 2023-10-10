@@ -5,7 +5,7 @@
 //class jz59 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    int[] nums;
 //    int k;
 //
@@ -54,6 +54,6 @@
 //    public static void main(String[] args) {
 //        int[] nums = {1, -1};
 //        int k = 1;
-//        new Solution().maxSlidingWindow(nums, k);
+//        new klausur.L深信服.Solution().maxSlidingWindow(nums, k);
 //    }
 //}

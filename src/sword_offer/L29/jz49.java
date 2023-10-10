@@ -8,7 +8,7 @@
 //public class jz49 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int nthUglyNumber(int n) {
 //        if (n == 1) {
 //            return 1;
@@ -49,6 +49,6 @@
 //
 //class Test {
 //    public static void main(String[] args) {
-//        new Solution().nthUglyNumber(5);
+//        new klausur.L深信服.Solution().nthUglyNumber(5);
 //    }
 //}

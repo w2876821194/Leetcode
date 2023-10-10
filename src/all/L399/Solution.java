@@ -3,7 +3,7 @@
 //import java.util.*;
 //import java.util.concurrent.atomic.AtomicInteger;
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    class Node {
 //        String s;
 //        Double value;

@@ -3,7 +3,7 @@
 //public class jz65 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int add(int a, int b) {
 //        return gcd(a, b);
 //    }
@@ -20,10 +20,10 @@
 //}
 //class Test {
 //    public static void main(String[] args) {
-//        new Solution().add(2,2);
+//        new klausur.L深信服.Solution().add(2,2);
 //    }
 //}
-////class Solution {
+////class klausur.L深信服.Solution {
 ////    public int add(int a, int b) {
 ////        while (b != 0) {
 ////            int carry = (a & b) << 1;

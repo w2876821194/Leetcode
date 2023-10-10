@@ -1,6 +1,6 @@
 package sword_offer.L04;
 
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int findRepeatNumber(int[] nums) {
 //        Set<Integer> set = new HashSet<>();
 //        for (int i : nums) {

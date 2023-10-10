@@ -20,7 +20,7 @@
 //    }
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public ListNode doubleIt(ListNode head) {
 //        if (head == null) {
 //            return null;
@@ -52,6 +52,6 @@
 //        ListNode head = new ListNode(1);
 //        head.next = new ListNode(8);
 //        head.next.next = new ListNode(9);
-//        new Solution().doubleIt(head);
+//        new klausur.L深信服.Solution().doubleIt(head);
 //    }
 //}

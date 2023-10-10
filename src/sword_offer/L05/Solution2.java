@@ -5,7 +5,7 @@
 //public class Solution2 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int minArray(int[] numbers) {
 //        return Arrays.stream(numbers).min().getAsInt();
 //    }

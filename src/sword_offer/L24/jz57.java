@@ -6,7 +6,7 @@
 //public class jz57 {
 //}
 //
-////class Solution {
+////class klausur.L深信服.Solution {
 ////    List<List<Integer>> arrayList = new ArrayList<>();
 ////
 ////    public int[][] findContinuousSequence(int target) {
@@ -46,11 +46,11 @@
 //
 //class Test {
 //    public static void main(String[] args) {
-//        new Solution().findContinuousSequence(15);
+//        new klausur.L深信服.Solution().findContinuousSequence(15);
 //    }
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    List<List<Integer>> arrayList = new ArrayList<>();
 //
 //    public int[][] findContinuousSequence(int target) {

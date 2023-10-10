@@ -5,7 +5,7 @@
 //public class jz51 {
 //}
 //
-////class Solution {
+////class klausur.L深信服.Solution {
 ////    int[] nums;
 ////    int sum = 0;
 ////    public int reversePairs(int[] nums) {
@@ -31,11 +31,11 @@
 //class Test {
 //    public static void main(String[] args) {
 //        int[] nums = {7, 5, 6, 4};
-//        new Solution().reversePairs(nums);
+//        new klausur.L深信服.Solution().reversePairs(nums);
 //    }
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    int[] nums;
 //    int sum = 0;
 //

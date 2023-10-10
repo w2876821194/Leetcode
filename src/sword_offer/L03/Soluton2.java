@@ -1,6 +1,6 @@
 //package sword_offer.L03;
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public String reverseLeftWords(String s, int n) {
 //        return s.substring(n) + s.substring(0, n);
 //    }

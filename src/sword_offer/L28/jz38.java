@@ -8,7 +8,7 @@
 //public class jz38 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    List<String> list = new ArrayList<>();
 //    char[] s;
 //    String str;
@@ -45,6 +45,6 @@
 //class Test {
 //    public static void main(String[] args) {
 //        String stirng = "abc";
-//        new Solution().permutation(stirng);
+//        new klausur.L深信服.Solution().permutation(stirng);
 //    }
 //}

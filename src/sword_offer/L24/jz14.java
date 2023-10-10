@@ -3,7 +3,7 @@
 //public class jz14 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int cuttingRope(int n) {
 //        if (n <= 3) {
 //            return n - 1;

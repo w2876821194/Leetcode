@@ -13,7 +13,7 @@
 //}
 ///
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public ListNode deleteNode(ListNode head, int val) {
 //        ListNode root = head;
 //        if (head.val == val) {

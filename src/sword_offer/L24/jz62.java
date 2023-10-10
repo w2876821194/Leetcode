@@ -3,7 +3,7 @@
 //public class jz62 {
 //}
 //
-////class Solution {
+////class klausur.L深信服.Solution {
 ////    public int lastRemaining(int n, int m) {
 ////        Set<Integer> set = new HashSet<>();
 ////        int i = 0;
@@ -31,11 +31,11 @@
 //
 //class Test {
 //    public static void main(String[] args) {
-//        new Solution().lastRemaining(5, 3);
+//        new klausur.L深信服.Solution().lastRemaining(5, 3);
 //    }
 //}
 //
-////class Solution {
+////class klausur.L深信服.Solution {
 ////    public int lastRemaining(int n, int m) {
 ////        int f = 0;
 ////        for (int i = 2; i != n + 1; i++) {
@@ -44,7 +44,7 @@
 ////        return f;
 ////    }
 ////} // 1 1
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int lastRemaining(int n, int m) {
 //        return f(n, m);
 //    }

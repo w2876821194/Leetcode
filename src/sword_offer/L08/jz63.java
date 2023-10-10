@@ -3,7 +3,7 @@
 //public class jz63 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int maxProfit(int[] prices) {
 //        int min = Integer.MAX_VALUE;
 //        int sum = 0;

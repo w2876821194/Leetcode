@@ -3,7 +3,7 @@
 //public class jz42 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int maxSubArray(int[] nums) {
 //        if (nums.length == 0) {
 //            return 0;

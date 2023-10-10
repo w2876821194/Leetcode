@@ -3,7 +3,7 @@
 //public class jz12 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    char[][] board;
 //    boolean[][] flags;
 //    String word;
@@ -51,6 +51,6 @@
 //class Test {
 //    public static void main(String[] args) {
 //        char[][] board = new char[][]{{'A', 'B', 'C', 'E'}, {'S', 'F', 'C', 'S'}, {'A', 'D', 'E', 'E'}};
-//        System.out.println(new Solution().exist(board, "ABCC"));
+//        System.out.println(new klausur.L深信服.Solution().exist(board, "ABCC"));
 //    }
 //}

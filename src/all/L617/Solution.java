@@ -1,6 +1,6 @@
 //package all.L617;
 //
-//public class Solution {
+//public class klausur.L深信服.Solution {
 //}
 //
 //class TreeNode {
@@ -22,7 +22,7 @@
 //    }
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public TreeNode mergeTrees(TreeNode root1, TreeNode root2) {
 //        if (root1 == null) {
 //            return root2;

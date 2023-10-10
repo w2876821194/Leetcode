@@ -13,7 +13,7 @@
 //    }
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    boolean flag = true;
 //
 //    public boolean isBalanced(TreeNode root) {

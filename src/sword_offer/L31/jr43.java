@@ -3,7 +3,7 @@
 //public class jr43 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int countDigitOne(int n) {
 //        // 定义当前值
 //        int m = n % 10;
@@ -38,7 +38,7 @@
 //
 //class Test {
 //    public static void main(String[] args) {
-//        new Solution().countDigitOne(12);
+//        new klausur.L深信服.Solution().countDigitOne(12);
 //    }
 //}
 //

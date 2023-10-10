@@ -3,7 +3,7 @@
 //public class jz14 {
 //}
 //
-////class Solution {
+////class klausur.L深信服.Solution {
 ////    public int cuttingRope(int n) {
 ////        if (n <= 3) return n - 1;
 ////        int b = n % 3, p = 1000000007;
@@ -20,11 +20,11 @@
 //
 //class Test {
 //    public static void main(String[] args) {
-//        new Solution().cuttingRope(120);
+//        new klausur.L深信服.Solution().cuttingRope(120);
 //    }
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    int mid = 1000000007;
 //
 //    public int cuttingRope(int n) {

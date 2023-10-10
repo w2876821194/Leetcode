@@ -6,7 +6,7 @@
 //public class jz57 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int[] twoSum(int[] nums, int target) {
 //        if (nums.length == 1) {
 //            return new int[0];

@@ -16,7 +16,7 @@
 //    }
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    int[] preorder;
 //    int[] inorder;
 //    Map<Integer, Integer> map = new HashMap<>();
@@ -49,6 +49,6 @@
 //    public static void main(String[] args) {
 //        int[] p = new int[]{3, 9, 20, 15, 7};
 //        int[] q = new int[]{9, 3, 15, 20, 7};
-//        new Solution().buildTree(p, q);
+//        new klausur.L深信服.Solution().buildTree(p, q);
 //    }
 //}

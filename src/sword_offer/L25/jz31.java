@@ -5,7 +5,7 @@
 //public class jz31 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    boolean flag;
 //    Stack<Integer> stack;
 //    int[] pushed;
@@ -40,6 +40,6 @@
 //    public static void main(String[] args) {
 ////        int[] pushed = {1, 2, 3, 4, 5}, popped = {4, 5, 3, 2, 1};
 //        int[] pushed = {1, 2, 3, 4, 5}, popped = {4, 3, 5, 1, 2};
-//        new Solution().validateStackSequences(pushed, popped);
+//        new klausur.L深信服.Solution().validateStackSequences(pushed, popped);
 //    }
 //}

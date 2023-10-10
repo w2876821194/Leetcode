@@ -6,7 +6,7 @@
 //public class jz40 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int[] getLeastNumbers(int[] arr, int k) {
 //        PriorityQueue<Integer> priorityQueue = new PriorityQueue<>();
 //        Arrays.stream(arr).forEach(priorityQueue::add);

@@ -3,7 +3,7 @@
 //public class jz64 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int sumNums(int n) {
 //        if (n == 1) {
 //            return 1;

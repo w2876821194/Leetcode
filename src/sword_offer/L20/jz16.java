@@ -3,7 +3,7 @@
 //public class jz16 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public double myPow(double x, int n) {
 //        if (n == 0) {
 //            return 1;
@@ -46,6 +46,6 @@
 //    public static void main(String[] args) {
 //        double x = 2.00000;
 //        int n = -2;
-//        new Solution().myPow(x, n);
+//        new klausur.L深信服.Solution().myPow(x, n);
 //    }
 //}

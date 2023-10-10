@@ -1,6 +1,6 @@
 //package sword_offer.L10;
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    int[] dp;
 //
 //    public int translateNum(int num) {
@@ -36,8 +36,8 @@
 //
 //class Test {
 //    public static void main(String[] args) {
-////        System.out.println(new Solution().translateNum(12258));
-////        System.out.println(new Solution().translateNum(122)); //bcc mc bw
-//        System.out.println(new Solution().translateNum(506)); //bcc mc bw
+////        System.out.println(new klausur.L深信服.Solution().translateNum(12258));
+////        System.out.println(new klausur.L深信服.Solution().translateNum(122)); //bcc mc bw
+//        System.out.println(new klausur.L深信服.Solution().translateNum(506)); //bcc mc bw
 //    }
 //}

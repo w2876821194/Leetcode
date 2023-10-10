@@ -6,7 +6,7 @@
 //public class jz29 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    int[][] p = new int[][]{{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
 //    boolean[][] flags;
 //
@@ -56,6 +56,6 @@
 //                {4,5,6},
 //                {7,8,9}
 //        };
-//        new Solution().spiralOrder(arr);
+//        new klausur.L深信服.Solution().spiralOrder(arr);
 //    }
 //}

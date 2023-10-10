@@ -3,7 +3,7 @@
 //public class jz20 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public boolean isNumber(String s) {
 //        if (s == null || s.trim().equals("")) {
 //            return false;

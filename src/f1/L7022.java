@@ -5,7 +5,7 @@
 //public class L7022 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int minAbsoluteDifference(List<Integer> nums, int x) {
 //        int abs = Integer.MAX_VALUE;
 //        int n = nums.size();
@@ -40,7 +40,7 @@
 //    }
 //}
 //
-////class Solution {
+////class klausur.L深信服.Solution {
 ////    public int minAbsoluteDifference(List<Integer> nums, int x) {
 ////        int abs = Integer.MAX_VALUE;
 ////        Queue<Integer> queue = new PriorityQueue<>();
@@ -59,6 +59,6 @@
 //        list.add(239224564);
 //        list.add(609763700);
 //        list.add(170531905);
-//        new Solution().minAbsoluteDifference(list, 0);
+//        new klausur.L深信服.Solution().minAbsoluteDifference(list, 0);
 //    }
 //}

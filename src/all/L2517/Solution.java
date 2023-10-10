@@ -2,7 +2,7 @@ package all.L2517;
 
 import java.util.*;
 
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int maximumTastiness(int[] price, int k) {
 //        Map<Integer, Set<Integer>> map = new HashMap<>();
 //        PriorityQueue<Integer> priorityQueue = new PriorityQueue<>((a, b) -> b - a);

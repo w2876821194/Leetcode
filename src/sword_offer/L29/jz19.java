@@ -3,7 +3,7 @@
 //public class jz19 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public boolean isMatch(String s, String p) {
 //        int sLen = s.length();
 //        int pLen = p.length();
@@ -42,6 +42,6 @@
 //
 //class Test {
 //    public static void main(String[] args) {
-//        new Solution().isMatch("aa", "a*");
+//        new klausur.L深信服.Solution().isMatch("aa", "a*");
 //    }
 //}

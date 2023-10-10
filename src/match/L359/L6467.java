@@ -1,4 +1,4 @@
-//package L359;
+//package match.L359;
 //
 //import java.util.HashMap;
 //import java.util.List;
@@ -7,7 +7,7 @@
 //public class L6467 {
 //}
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    public int longestEqualSubarray(List<Integer> nums, int k) {
 //        int n = nums.size();
 //        int[][] dp = new int[n + 1][k + 1];

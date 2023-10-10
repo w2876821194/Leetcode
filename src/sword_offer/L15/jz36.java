@@ -26,7 +26,7 @@
 //    }
 //};
 //
-//class Solution {
+//class klausur.L深信服.Solution {
 //    PriorityQueue<Integer> queue = new PriorityQueue<>();
 //    Map<Integer, Node> map = new HashMap<>();
 //    Node head;
