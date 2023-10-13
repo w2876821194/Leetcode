@@ -1,8 +1,7 @@
-package m1;
+package klausur.m1;
 
 import java.util.Arrays;
 import java.util.Scanner;
-import java.util.stream.Collectors;
 
 public class m1 {
     public static void main(String[] args) {

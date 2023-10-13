@@ -18,14 +18,6 @@ class Solution {
         System.out.println(Arrays.toString(arr));
         Arrays.sort(arr);
         System.out.println(Arrays.toString(arr));
-//        long ans = 0, sum = 0;
-//        final int mod = (int) 1e9 + 7;
-//        for (int i = 0; i < n; ++i) {
-//            ans = (ans + i * arr[i] - sum) % mod;
-//            sum += arr[i];
-//        }
-//        return (int) ans;
-
         return (int) gcd(n - 1, n);
     }
 

@@ -1,4 +1,4 @@
-package m1;
+package klausur.m1;
 
 import java.util.Scanner;
 

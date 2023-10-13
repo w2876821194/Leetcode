@@ -1,4 +1,4 @@
-package all.KGU;
+package klausur.KGU;
 
 import java.util.Scanner;
 
