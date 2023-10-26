@@ -3,49 +3,6 @@ package all.L1488;
 import java.util.*;
 import java.util.stream.Collectors;
 
-class Solution {
-    public int[] avoidFlood(int[] rains) {
-        int[] arr = new int[rains.length];
-        Queue<Integer[]> queue = new PriorityQueue<>(Comparator.comparingInt(i -> i[0]));
-        Set<Integer> set = new HashSet<>();
-        for (int i = 0; i < rains.length; i++) {
-            if (rains[i] != 0) {
-                queue.add(new Integer[]{i, rains[i]});
-                arr[i] = -1;
-            } else {
-                arr[i] = 1;
-            }
-        }
-
-        for (int i = 0; i < rains.length; i++) {
-            if (rains[i] != 0) {
-                if (set.contains(rains[i])) {
-                    return new int[0];
-                } else {
-                    set.add(rains[i]);
-                    queue.poll();
-                }
-            } else {
-                // 处理最先会来雨的水库
-                if (!set.isEmpty()) {
-                    List<Integer[]> list = new ArrayList<>();
-                    while (!queue.isEmpty() && !set.contains(queue.peek()[1])) {
-                        list.add(queue.poll());
-                    }
-                    if (queue.peek() != null) {
-                        arr[i] = queue.peek()[1];
-                        set.remove(queue.peek()[1]);
-                    }
-                    queue.addAll(list);
-                } else {
-                    arr[i] = 1;
-                }
-            }
-        }
-        return arr;
-    }
-}
-
 class Test {
     public static void main(String[] args) {
         int[] rains = {1, 0, 1, 0, 2, 0, 2};
